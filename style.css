@@ -364,7 +364,7 @@ h6 {
 }
 
 .project4::after {
-      content: "Car Front-Back Classifier";
+      content: "Car Front-Back Detection Classifier";
       font-family: "Roboto Mono";
       font-size: 36px;
       position: relative;
