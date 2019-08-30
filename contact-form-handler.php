@@ -28,6 +28,6 @@ $headers = "From: $myemail\n";
 $headers .= "Reply-To: $email_address";
 mail($to,$email_subject,$email_body,$headers);
 //redirect to the 'thank you' page
-header('Location: contact-form-thank-you.html');
+header('Location: thank-you.html');
 }
 ?>
