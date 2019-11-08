@@ -376,6 +376,25 @@ h6 {
   bottom: 0;
 }
 
+.project5 {
+  background: url(https://i.ibb.co/jJChM9T/Group-1.png) no-repeat 50% 50%;
+  background-size: cover;
+}
+
+.project5::after {
+  content: "Draft IOS App Design";
+  font-family: "Roboto Mono";
+  font-size: 36px;
+  position: relative;
+  color: #fff;
+  display: block;
+  top: 8%;
+  left: -60%;
+  right: 0;
+  bottom: 0;
+}
+
+
 @media (max-width: 768px) {
   .project {
     width: 90% !important;
@@ -389,7 +408,8 @@ h6 {
   .project1::after,
   .project2::after,
   .project3::after,
-  .project4::after {
+  .project4::after,
+  .project5::after {
     display: none;
   }
 }
@@ -480,6 +500,7 @@ h6 {
 }
 
 @media (max-width: 768px) {
+
   .collab,
   #personal,
   #media,
@@ -525,9 +546,9 @@ h6 {
 }
 
 .image {
-  background: url(https://images.unsplash.com/photo-1540885762261-a2ca01f290f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2468&q=80)
-    no-repeat 50% 70%;
+  background: url(https://images.unsplash.com/photo-1540885762261-a2ca01f290f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2468&q=80) no-repeat 50% 70%;
 }
+
 .turno {
   background: url(https://i.ibb.co/0jVjBnV/me.jpg) no-repeat 50% 70%;
 }
@@ -545,8 +566,7 @@ h6 {
 }
 
 .rally1 {
-  background: url(https://i.ibb.co/sjvp7wW/Webp-net-resizeimage-1.jpg) no-repeat
-    50% 70%;
+  background: url(https://i.ibb.co/sjvp7wW/Webp-net-resizeimage-1.jpg) no-repeat 50% 70%;
 }
 
 .pin1 {
@@ -568,9 +588,11 @@ h6 {
 .car {
   background: url(https://i.ibb.co/4Yvj9CG/car.jpg) no-repeat 50% 70%;
 }
+
 .car1 {
   background: url(https://i.ibb.co/SQCFg1B/car.jpg) no-repeat 50% 70%;
 }
+
 /*--------------- contact form --------------- */
 
 #contact-form {
