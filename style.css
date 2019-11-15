@@ -377,7 +377,7 @@ h6 {
 }
 
 .project5 {
-  background: url(https://gph.is/g/4MN6J9V) no-repeat 50% 50%;
+  background: url(https://media.giphy.com/media/l1rGGYFuaxYeHr9rA8/giphy.gif) no-repeat 50% 50%;
 
   object-fit: cover;
 }
@@ -500,6 +500,7 @@ h6 {
 }
 
 @media (max-width: 768px) {
+
   .collab,
   #personal,
   #media,
@@ -545,8 +546,7 @@ h6 {
 }
 
 .image {
-  background: url(https://images.unsplash.com/photo-1540885762261-a2ca01f290f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2468&q=80)
-    no-repeat 50% 70%;
+  background: url(https://images.unsplash.com/photo-1540885762261-a2ca01f290f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2468&q=80) no-repeat 50% 70%;
 }
 
 .turno {
@@ -566,8 +566,7 @@ h6 {
 }
 
 .rally1 {
-  background: url(https://i.ibb.co/sjvp7wW/Webp-net-resizeimage-1.jpg) no-repeat
-    50% 70%;
+  background: url(https://i.ibb.co/sjvp7wW/Webp-net-resizeimage-1.jpg) no-repeat 50% 70%;
 }
 
 .pin1 {
