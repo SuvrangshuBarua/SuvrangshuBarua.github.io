@@ -383,7 +383,7 @@ h6 {
 }
 
 .project5::after {
-  content: "Terminal_chat";
+  content: "Terminal chat";
   font-family: "Roboto Mono";
   font-size: 36px;
   position: relative;
