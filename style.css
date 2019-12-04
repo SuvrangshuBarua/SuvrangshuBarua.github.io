@@ -377,7 +377,8 @@ h6 {
 }
 
 .project5 {
-  background: url(https://i.ibb.co/ryhWtfZ/ezgif-com-optimize.gif) no-repeat 50% 50%;
+  background: url(https://i.ibb.co/ryhWtfZ/ezgif-com-optimize.gif) no-repeat 50%
+    50%;
 
   object-fit: cover;
 }
@@ -391,6 +392,24 @@ h6 {
   display: block;
   top: 8%;
   left: -120%;
+  right: 0;
+  bottom: 0;
+}
+.project6 {
+  background: url(https://i.ibb.co/YTNJNM5/Ex.gif) no-repeat 50% 50%;
+
+  object-fit: cover;
+}
+
+.project6::after {
+  content: "Expense Tracker";
+  font-family: "Roboto Mono";
+  font-size: 36px;
+  position: relative;
+  color: #fff;
+  display: block;
+  top: 10%;
+  left: 100%;
   right: 0;
   bottom: 0;
 }
@@ -500,7 +519,6 @@ h6 {
 }
 
 @media (max-width: 768px) {
-
   .collab,
   #personal,
   #media,
@@ -546,7 +564,8 @@ h6 {
 }
 
 .image {
-  background: url(https://images.unsplash.com/photo-1540885762261-a2ca01f290f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2468&q=80) no-repeat 50% 70%;
+  background: url(https://images.unsplash.com/photo-1540885762261-a2ca01f290f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2468&q=80)
+    no-repeat 50% 70%;
 }
 
 .turno {
@@ -566,7 +585,8 @@ h6 {
 }
 
 .rally1 {
-  background: url(https://i.ibb.co/sjvp7wW/Webp-net-resizeimage-1.jpg) no-repeat 50% 70%;
+  background: url(https://i.ibb.co/sjvp7wW/Webp-net-resizeimage-1.jpg) no-repeat
+    50% 70%;
 }
 
 .pin1 {
@@ -594,22 +614,24 @@ h6 {
 }
 
 .t1 {
-  background: url(https://i.ibb.co/cNhtX6j/bandicam-2019-11-22-20-25-04-413.jpg) no-repeat 50% 70%;
+  background: url(https://i.ibb.co/cNhtX6j/bandicam-2019-11-22-20-25-04-413.jpg)
+    no-repeat 50% 70%;
 }
 
 .t2 {
-  background: url(https://i.ibb.co/wBrzRnN/bandicam-2019-11-22-20-25-58-407.jpg) no-repeat 50% 70%;
+  background: url(https://i.ibb.co/wBrzRnN/bandicam-2019-11-22-20-25-58-407.jpg)
+    no-repeat 50% 70%;
 }
 
 .t3 {
-  background: url(https://i.ibb.co/c37FP95/bandicam-2019-11-22-20-26-14-711.jpg) no-repeat 50% 70%;
+  background: url(https://i.ibb.co/c37FP95/bandicam-2019-11-22-20-26-14-711.jpg)
+    no-repeat 50% 70%;
 }
 
 .t4 {
-  background: url(https://i.ibb.co/tzyTTtZ/bandicam-2019-11-22-20-26-30-709.jpg) no-repeat 50% 70%;
+  background: url(https://i.ibb.co/tzyTTtZ/bandicam-2019-11-22-20-26-30-709.jpg)
+    no-repeat 50% 70%;
 }
-
-
 
 /*--------------- contact form --------------- */
 
