@@ -373,12 +373,12 @@ h6 {
 }
 
 .project4 {
-  background: url(https://i.ibb.co/fncHRvb/ima.gif) no-repeat 50% 50%;
+  background: url(https://i.ibb.co/kHMfqrz/Trickstar-Runner.gif) no-repeat 50% 50%;
   object-fit: cover;
 }
 
 .project4::after {
-  content: "Car Front-Back Detection Classifier";
+  content: "Trickstar Runner";
   font-family: "Roboto Mono";
   font-size: 36px;
   position: relative;
@@ -627,12 +627,20 @@ h6 {
   background: url(https://i.ibb.co/jfvPTWb/pin4.jpg) no-repeat 50% 70%;
 }
 
-.car {
-  background: url(https://i.ibb.co/4Yvj9CG/car.jpg) no-repeat 50% 70%;
+.car1 {
+  background: url(https://i.ibb.co/k35yq7t/1.jpg) no-repeat 50% 70%;
 }
 
-.car1 {
-  background: url(https://i.ibb.co/SQCFg1B/car.jpg) no-repeat 50% 70%;
+.car2 {
+  background: url(https://i.ibb.co/q7d5SR5/2.jpg) no-repeat 50% 70%;
+}
+
+.car3 {
+  background: url(https://i.ibb.co/j46nqf6/3.jpg) no-repeat 50% 70%;
+}
+
+.car4 {
+  background: url(https://i.ibb.co/rm04yzp/4.jpg) no-repeat 50% 70%;
 }
 
 .t1 {
