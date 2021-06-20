@@ -391,14 +391,14 @@ h6 {
 }
 
 .project5 {
-  background: url(https://i.ibb.co/ryhWtfZ/ezgif-com-optimize.gif) no-repeat 50%
+  background: url(https://i.ibb.co/r68Dk9x/Bull-run.gif) no-repeat 50%
     50%;
 
   object-fit: cover;
 }
 
 .project5::after {
-  content: "Terminal chat";
+  content: "Bull Crash";
   font-family: "Roboto Mono";
   font-size: 36px;
   position: relative;
