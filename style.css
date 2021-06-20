@@ -337,12 +337,12 @@ h6 {
 }
 
 .project2 {
-  background: url(https://i.ibb.co/S69D9Z1/pinit.gif) no-repeat 50% 50%;
+  background: url(https://i.ibb.co/P4vfzJr/cart.gif) no-repeat 50% 50%;
   object-fit: cover;
 }
 
 .project2::after {
-  content: "Pin It";
+  content: "Cart Thrower";
   font-family: "Roboto Mono";
   font-size: 36px;
   position: relative;
