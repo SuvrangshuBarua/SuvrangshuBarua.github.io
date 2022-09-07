@@ -324,7 +324,7 @@ h6 {
 }
 
 .project1::after {
-  content: "Hole-e-gone Master 3D";
+  content: "Bouncy Invaders";
   font-family: "Roboto Mono";
   font-size: 36px;
   position: relative;
@@ -342,7 +342,7 @@ h6 {
 }
 
 .project2::after {
-  content: "Cart Thrower";
+  content: "Throw-Kart!";
   font-family: "Roboto Mono";
   font-size: 36px;
   position: relative;
@@ -398,7 +398,7 @@ h6 {
 }
 
 .project5::after {
-  content: "Bull Crash";
+  content: "Super Bull Rage";
   font-family: "Roboto Mono";
   font-size: 36px;
   position: relative;
@@ -488,7 +488,6 @@ h6 {
   margin-right: 6px;
   background: #3b5998;
 }
-
 #ig::before {
   display: inline-block;
   content: "";
